@@ -257,6 +257,14 @@
         <trackHistory>true</trackHistory>
         <type>Picklist</type>
     </fields>
+    <fields>
+        <fullName>Test_Contract_Field_1__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Test Contract Field 1</label>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </fields>
     <listViews>
         <fullName>AllActivatedContracts</fullName>
         <filterScope>Everything</filterScope>
